@@ -4,7 +4,6 @@ This ebotics eboticsMIBO package was developed by [ebotics](https://www.ebotics.
 
 The ebotics eboticsMIBO is a small DIY smart car driven by the BBC micro:bit and the ebotics Ring:bit. The Ring:bit extends the micro:bit's 3 GPIO ports and allow for different sensors and components to be easily attached to the micro:bit. A basic eboticsMIBO can be easily programmed to run autonomously, with a remote control, and even create rainbow beacons of light. Just add one of the many extensions available and your eboticsMIBO can do even more things like line and light following, obstacle avoiding, drawing and more! 
 
-![](https://i.imgur.com/TiLb9mB.png)
 
 
 
