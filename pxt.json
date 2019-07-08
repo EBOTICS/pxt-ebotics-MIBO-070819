@@ -1,0 +1,23 @@
+{
+    "name": "eboticsMIBO",
+    "version": "0.0.1",
+    "description": "Extension to control the MIBO www.ebotics.com",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neoPixel": "github:microsoft/pxt-neopixel"
+    },
+    "files": [
+        "README.md",
+        "eboticsMIBO.ts",
+        "_locales/zh-cn/eboticsMIBO-strings.json",
+        "_locales/zh-tw/eboticsMIBO-strings.json",
+        "_locales/ja/eboticsMIBO-strings.json",
+        "_locales/fr/eboticsMIBO-strings.json",
+        "_locales/fr/eboticsMIBO-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}

@@ -1,0 +1,20 @@
+{
+  "eboticsMIBO.Distance_Unit.Distance_Unit_cm|block": "cm",
+  "eboticsMIBO.Distance_Unit.Distance_Unit_inch|block": "inch",
+  "eboticsMIBO.Distance_Unit.Distance_Unit_mm|block": "mm",
+  "eboticsMIBO.TrackingStateType.Tracking_State_0|block": "● ●",
+  "eboticsMIBO.TrackingStateType.Tracking_State_1|block": "● ◌",
+  "eboticsMIBO.TrackingStateType.Tracking_State_2|block": "◌ ●",
+  "eboticsMIBO.TrackingStateType.Tracking_State_3|block": "◌ ◌",
+  "eboticsMIBO.back|block": "reverse at full speed",
+  "eboticsMIBO.brake|block": "brake",
+  "eboticsMIBO.forward|block": "go straight at full speed",
+  "eboticsMIBO.freestyle|block": "set left wheel speed %m| right wheel speed %n",
+  "eboticsMIBO.init_wheel|block": "set left wheel at pin %left|right wheel at pin %right",
+  "eboticsMIBO.eboticsMIBO_sonarbit|block": "ultrasonic distance in unit %distance_unit",
+  "eboticsMIBO.tracking|block": "tracking state is %state",
+  "eboticsMIBO.turnleft|block": "turn left at full speed",
+  "eboticsMIBO.turnright|block": "turn right at full speed",
+  "eboticsMIBO|block": "eboticsMIBO",
+  "{id:category}eboticsMIBO": "eboticsMIBO"
+}

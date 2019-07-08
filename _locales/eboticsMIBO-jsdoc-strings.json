@@ -1,0 +1,16 @@
+{
+  "eboticsMIBO": "Use this file to define custom functions and blocks.\nRead more at https://makecode.microbit.org/blocks/custom",
+  "eboticsMIBO.back": "TODO: full speed move back",
+  "eboticsMIBO.brake": "TODO: stop",
+  "eboticsMIBO.forward": "TODO: full speed move forward",
+  "eboticsMIBO.freestyle": "TODO: self setting speed",
+  "eboticsMIBO.freestyle|param|m": "the m from -100 (min) to 100 (max), eg:0",
+  "eboticsMIBO.freestyle|param|n": "the n from -100 (min) to 100 (max), eg:0",
+  "eboticsMIBO.init_wheel": "TODO: initialization ring:bit car",
+  "eboticsMIBO.init_wheel|param|left": "describe parameter here, eg: AnalogPin.P1",
+  "eboticsMIBO.init_wheel|param|right": "describe parameter here, eg: AnalogPin.P2",
+  "eboticsMIBO.eboticsMIBO_sonarbit": "TODO: get ultrasonic distance",
+  "eboticsMIBO.tracking": "TODO: line following",
+  "eboticsMIBO.turnleft": "TODO: full speed turn left",
+  "eboticsMIBO.turnright": "TODO: full speed turn right"
+}
