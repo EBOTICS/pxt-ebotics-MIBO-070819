@@ -10,8 +10,8 @@
     "files": [
         "README.md",
         "eboticsMIBO.ts",
-        "_locales/esp/eboticsMIBO-strings.json",
-        "_locales/esp/eboticsMIBO-jsdoc-strings.json"
+        "_locales/es/eboticsMIBO-strings.json",
+        "_locales/es/eboticsMIBO-jsdoc-strings.json"
     ],
     "testFiles": [
         "tests.ts"
