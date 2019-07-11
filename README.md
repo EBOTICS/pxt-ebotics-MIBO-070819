@@ -2,7 +2,7 @@
 # eboticsMIBO Package
 This ebotics MIBO package was developed by [ebotics](https://www.ebotics.com/) 
 
-The ebotics MIBO is a your first robot DIY robot for the BBC micro:bit. The MIBO extends the micro:bit's 3 GPIO ports and allow for different sensors and components to be easily attached to the micro:bit. A basic ebotics MIBO can be easily programmed to run autonomously, with a remote control, and even create rainbow beacons of light. Just add one of the many extensions available and your ebotics MIBO can do even more things like line and light following, obstacle avoiding, drawing and more!  
+ebotics MIBO is your first robot with the BBC micro:bit electronic board. MIBO extends the micro:bit's 3 GPIO ports, allowing different sensors and components to be easily attached to the micro:bit. Add the eboticsMIBO extension and program MIBO to follow a line, draw, dance, light in different colors and much more!
 
 
 
