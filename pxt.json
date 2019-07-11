@@ -1,6 +1,6 @@
 {
     "name": "eboticsMIBO",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "Extension to control the MIBO www.ebotics.com",
     "license": "MIT",
     "dependencies": {
@@ -10,11 +10,8 @@
     "files": [
         "README.md",
         "eboticsMIBO.ts",
-        "_locales/zh-cn/eboticsMIBO-strings.json",
-        "_locales/zh-tw/eboticsMIBO-strings.json",
-        "_locales/ja/eboticsMIBO-strings.json",
-        "_locales/fr/eboticsMIBO-strings.json",
-        "_locales/fr/eboticsMIBO-jsdoc-strings.json"
+        "_locales/esp/eboticsMIBO-strings.json",
+        "_locales/esp/eboticsMIBO-jsdoc-strings.json"
     ],
     "testFiles": [
         "tests.ts"
