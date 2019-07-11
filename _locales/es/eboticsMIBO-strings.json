@@ -1,0 +1,20 @@
+{
+  "eboticsMIBO.Distance_Unit.Distance_Unit_cm|block": "cm",
+  "eboticsMIBO.Distance_Unit.Distance_Unit_inch|block": "inch",
+  "eboticsMIBO.Distance_Unit.Distance_Unit_mm|block": "mm",
+  "eboticsMIBO.TrackingStateType.Tracking_State_0|block": "● ●",
+  "eboticsMIBO.TrackingStateType.Tracking_State_1|block": "● ◌",
+  "eboticsMIBO.TrackingStateType.Tracking_State_2|block": "◌ ●",
+  "eboticsMIBO.TrackingStateType.Tracking_State_3|block": "◌ ◌",
+  "eboticsMIBO.back|block": "retroceder a toda velocidad",
+  "eboticsMIBO.brake|block": "frenar",
+  "eboticsMIBO.forward|block": "sigue recto a toda velocidad",
+  "eboticsMIBO.freestyle|block": "ajustar la velocidad de la rueda izquierda %m| velocidad de la rueda derecha %n",
+  "eboticsMIBO.init_wheel|block": "poner rueda izquierda en el pin %izquierda|rueda derecha en el pin %derecha",
+  "eboticsMIBO.eboticsMIBO_sonarbit|block": "distancía del sensor de ultrasonidos %distance_unit",
+  "eboticsMIBO.tracking|block": "estado de seguimiento es %state",
+  "eboticsMIBO.turnleft|block": "gira a la izquierda a toda velocidad",
+  "eboticsMIBO.turnright|block": "gira a la derecha a toda velocidad",
+  "eboticsMIBO|block": "eboticsMIBO",
+  "{id:category}eboticsMIBO": "eboticsMIBO"
+}
