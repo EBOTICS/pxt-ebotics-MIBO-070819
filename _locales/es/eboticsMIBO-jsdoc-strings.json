@@ -1,16 +1,16 @@
 {
   "eboticsMIBO": "Utiliza este archivo para definir funciones y bloques personalizados. https://makecode.microbit.org/blocks/custom",
-  "eboticsMIBO.back": "TODO: retroceder a toda velocidad",
-  "eboticsMIBO.brake": "TODO: stop",
-  "eboticsMIBO.forward": "TODO: avanzar a toda velocidad",
-  "eboticsMIBO.freestyle": "TODO: velocidad de auto-ajuste",
+  "eboticsMIBO.back": "MIBO: retroceder a toda velocidad",
+  "eboticsMIBO.brake": "MIBO: stop",
+  "eboticsMIBO.forward": "MIBO: avanzar a toda velocidad",
+  "eboticsMIBO.freestyle": "MIBO: velocidad de auto-ajuste",
   "eboticsMIBO.freestyle|param|m": "la m de -100 (min) a 100 (max), eg:0",
   "eboticsMIBO.freestyle|param|n": "la n de -100 (min) a 100 (max), eg:0",
-  "eboticsMIBO.init_wheel": "TODO: inicialización del ebotics MIBO",
+  "eboticsMIBO.init_wheel": "MIBO: inicialización del ebotics MIBO",
   "eboticsMIBO.init_wheel|param|left": "describa el parametro aquí, eg: AnalogPin.P1",
   "eboticsMIBO.init_wheel|param|right": "describa el parametro aquí, eg: AnalogPin.P2",
   "eboticsMIBO.eboticsMIBO_sonarbit": "TODO: obtener la distancia del sensor de ultrasonidos",
-  "eboticsMIBO.tracking": "TODO: seguidor de linea",
-  "eboticsMIBO.turnleft": "TODO: girar a la izquierda a toda velocidad",
-  "eboticsMIBO.turnright": "TODO: girar a la derecha a toda velocidad"
+  "eboticsMIBO.tracking": "MIBO: seguidor de linea",
+  "eboticsMIBO.turnleft": "MIBO: girar a la izquierda a toda velocidad",
+  "eboticsMIBO.turnright": "MIBO: girar a la derecha a toda velocidad"
 }
