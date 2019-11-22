@@ -9,7 +9,7 @@
   "eboticsMIBO.init_wheel": "MIBO: inicialización del ebotics MIBO",
   "eboticsMIBO.init_wheel|param|left": "describa el parametro aquí, eg: AnalogPin.P1",
   "eboticsMIBO.init_wheel|param|right": "describa el parametro aquí, eg: AnalogPin.P2",
-  "eboticsMIBO.eboticsMIBO_sonarbit": "TODO: obtener la distancia del sensor de ultrasonidos",
+  "eboticsMIBO.eboticsMIBO_sonarbit": "MIBO: obtener la distancia del sensor de ultrasonidos",
   "eboticsMIBO.tracking": "MIBO: seguidor de linea",
   "eboticsMIBO.turnleft": "MIBO: girar a la izquierda a toda velocidad",
   "eboticsMIBO.turnright": "MIBO: girar a la derecha a toda velocidad"
