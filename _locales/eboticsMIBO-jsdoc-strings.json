@@ -1,16 +1,16 @@
 {
   "eboticsMIBO": "Use this file to define custom functions and blocks.\nRead more at https://makecode.microbit.org/blocks/custom",
-  "eboticsMIBO.back": "TODO: full speed move back",
-  "eboticsMIBO.brake": "TODO: stop",
-  "eboticsMIBO.forward": "TODO: full speed move forward",
-  "eboticsMIBO.freestyle": "TODO: self setting speed",
+  "eboticsMIBO.back": "MIBO: full speed move back",
+  "eboticsMIBO.brake": "MIBO: stop",
+  "eboticsMIBO.forward": "MIBO: full speed move forward",
+  "eboticsMIBO.freestyle": "MIBO: self setting speed",
   "eboticsMIBO.freestyle|param|m": "the m from -100 (min) to 100 (max), eg:0",
   "eboticsMIBO.freestyle|param|n": "the n from -100 (min) to 100 (max), eg:0",
-  "eboticsMIBO.init_wheel": "TODO: initialization MIBO",
+  "eboticsMIBO.init_wheel": "MIBO: initialization MIBO",
   "eboticsMIBO.init_wheel|param|left": "describe parameter here, eg: AnalogPin.P1",
   "eboticsMIBO.init_wheel|param|right": "describe parameter here, eg: AnalogPin.P2",
-  "eboticsMIBO.eboticsMIBO_sonarbit": "TODO: get ultrasonic distance",
-  "eboticsMIBO.tracking": "TODO: line following",
-  "eboticsMIBO.turnleft": "TODO: full speed turn left",
-  "eboticsMIBO.turnright": "TODO: full speed turn right"
+  "eboticsMIBO.eboticsMIBO_sonarbit": "MIBO: get ultrasonic distance",
+  "eboticsMIBO.tracking": "MIBO: line following",
+  "eboticsMIBO.turnleft": "MIBO: full speed turn left",
+  "eboticsMIBO.turnright": "MIBO: full speed turn right"
 }
