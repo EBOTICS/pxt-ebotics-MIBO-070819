@@ -6,7 +6,7 @@
   "eboticsMIBO.freestyle": "MIBO: self setting speed",
   "eboticsMIBO.freestyle|param|m": "the m from -100 (min) to 100 (max), eg:0",
   "eboticsMIBO.freestyle|param|n": "the n from -100 (min) to 100 (max), eg:0",
-  "eboticsMIBO.init_wheel": "MIBO: initialization MIBO",
+  "eboticsMIBO.init_wheel": "MIBO: initialization",
   "eboticsMIBO.init_wheel|param|left": "describe parameter here, eg: AnalogPin.P1",
   "eboticsMIBO.init_wheel|param|right": "describe parameter here, eg: AnalogPin.P2",
   "eboticsMIBO.eboticsMIBO_sonarbit": "MIBO: get ultrasonic distance",
