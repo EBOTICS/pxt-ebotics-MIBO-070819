@@ -36,7 +36,7 @@ namespace eboticsMIBO {
 
 
     /**
-    * MIBO: initialization ring:bit car
+    * MIBO: initialization
     * @param left describe parameter here, eg: AnalogPin.P1
     * @param right describe parameter here, eg: AnalogPin.P2
     */
