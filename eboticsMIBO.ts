@@ -36,7 +36,7 @@ namespace eboticsMIBO {
 
 
     /**
-    * TODO: initialization ring:bit car
+    * MIBO: initialization ring:bit car
     * @param left describe parameter here, eg: AnalogPin.P1
     * @param right describe parameter here, eg: AnalogPin.P2
     */
@@ -52,7 +52,7 @@ namespace eboticsMIBO {
 
 
     /**
-    * TODO: full speed move forward
+    * MIBO: full speed move forward
     */
     //% weight=9
     //% blockId=eboticsMIBO_forward block="go straight at full speed"
@@ -67,7 +67,7 @@ namespace eboticsMIBO {
 
 
     /**
-    * TODO: full speed move back
+    * MIBO: full speed move back
     */
     //% weight=8
     //% blockId=eboticsMIBO_back block="reverse at full speed"
@@ -82,7 +82,7 @@ namespace eboticsMIBO {
 
 
     /**
-    * TODO: full speed turn left
+    * MIBO: full speed turn left
     */
     //% weight=7
     //% blockId=eboticsMIBO_left block="turn left at full speed"
@@ -96,7 +96,7 @@ namespace eboticsMIBO {
 
 
     /**
-    * TODO: full speed turn right
+    * MIBO: full speed turn right
     */
     //% weight=6
     //% blockId=eboticsMIBO_right block="turn right at full speed"
@@ -110,7 +110,7 @@ namespace eboticsMIBO {
 
 
     /**
-    * TODO: stop
+    * MIBO: stop
     */
     //% weight=5
     //% blockId=eboticsMIBO_brake block="brake"
@@ -127,7 +127,7 @@ namespace eboticsMIBO {
 
 
     /**
-    * TODO: self setting speed
+    * MIBO: self setting speed
     * @param m the m from -100 (min) to 100 (max), eg:0
     * @param n the n from -100 (min) to 100 (max), eg:0
     */
@@ -156,7 +156,7 @@ namespace eboticsMIBO {
 
 
     /**
-    * TODO: line following
+    * MIBO: line following
     */
     //% weight=10
     //% advanced=true
@@ -187,7 +187,7 @@ namespace eboticsMIBO {
 
 
     /**
-    * TODO: get ultrasonic distance
+    * MIBO: get ultrasonic distance
     */
     //% weight=9
     //% advanced=true
