@@ -4,7 +4,7 @@
 
 //% weight=0 color=#0fbc11  icon="\uf207" block="eboticsMIBO"
 namespace eboticsMIBO {
-    
+
     export enum TrackingStateType {
         //% block="● ●" enumval=0
         Tracking_State_0,
