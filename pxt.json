@@ -1,6 +1,6 @@
 {
     "name": "eboticsMIBO",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Extension to control the MIBO www.ebotics.com",
     "license": "MIT",
     "dependencies": {
